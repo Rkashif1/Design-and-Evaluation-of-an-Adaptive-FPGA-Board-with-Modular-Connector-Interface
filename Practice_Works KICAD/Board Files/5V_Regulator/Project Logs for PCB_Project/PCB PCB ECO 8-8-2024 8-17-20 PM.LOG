@@ -1,0 +1,28 @@
+Add Pin To Net: Unknown Pin: Pin   -1
+Add Pin To Net: Unknown Pin: Pin   -2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D3 Diode
+Add Class Member: Failed to add class member : Component D4 Diode
+Add Class Member: Failed to add class member : Component    Diode
+Add Class Member: Failed to add class member : Component U1 Positive Fixed Voltage regulator

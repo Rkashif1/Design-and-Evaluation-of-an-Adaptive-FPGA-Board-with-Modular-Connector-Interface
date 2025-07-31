@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IMU SCL Pin=U2-23
+Change Net Name : Old Net Name=IMU SCL New Net Name=+3V3
+Added Pin To Net: NetName=IMU SCL Pin=U2-23
+Added Net: Name=IMU SCL
