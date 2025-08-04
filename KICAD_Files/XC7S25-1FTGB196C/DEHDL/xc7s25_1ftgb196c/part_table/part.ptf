@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC7S25_1FTGB196C'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "AMD", "XC7S25-1FTGB196C" (!) = "", "BGA196C100P14X14_1500X1500X155", "BGA", "217-XC7S25-1FTGB196C", "https://www.mouser.co.uk/ProductDetail/AMD-Xilinx/XC7S25-1FTGB196C?qs=rrS6PyfT74fJcWwIcCmb%252BA%3D%3D", "", "", "XILINX - XC7S25-1FTGB196C - FPGA, SPARTAN-7, 100 I/O, FCBGA-196", "https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf", "1.55 mm"
+END_PART
+
+END.

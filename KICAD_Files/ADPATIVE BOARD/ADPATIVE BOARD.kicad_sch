@@ -1,0 +1,317 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "43113223-387b-4aef-9867-7ed03dd430d3")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 17.78 19.05)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1a0c3358-7f07-4690-8c04-783e1a89450a")
+		(property "Sheetname" "PMM"
+			(at 17.78 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PMM.kicad_sch"
+			(at 17.78 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 63.5)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "461ba112-73bf-46e5-9780-58f486b07c40")
+		(property "Sheetname" "JTAG"
+			(at 17.78 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG.kicad_sch"
+			(at 17.78 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 33.02)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b743871-49ed-4e0c-90b8-d42dbccb615f")
+		(property "Sheetname" "FPGA_Core"
+			(at 17.78 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Core.kicad_sch"
+			(at 17.78 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 91.44)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "752542c2-3c9c-4c47-bae7-bceb8ebac3f3")
+		(property "Sheetname" "Memory Module"
+			(at 17.78 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory Module.kicad_sch"
+			(at 17.78 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 77.47)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "894267fc-cf9b-4451-892a-54278738fe73")
+		(property "Sheetname" "USB_UART_&_SPI_Interface"
+			(at 17.78 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_UART_Interface.kicad_sch"
+			(at 17.78 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 119.38)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "910eb5df-e410-4b1b-ab54-92950780727c")
+		(property "Sheetname" "Crystal_Oscillator"
+			(at 17.78 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Crystal_Oscillator.kicad_sch"
+			(at 17.78 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 106.68)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bd2f123a-c472-4758-9c79-c366fa20ab68")
+		(property "Sheetname" "LEDs and Buttons Module"
+			(at 17.78 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDs and Buttons Module.kicad_sch"
+			(at 17.78 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 49.53)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df96af7b-4abe-4a9e-ba16-4665675638e3")
+		(property "Sheetname" "DFC_Connector"
+			(at 17.78 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DFC_Connector.kicad_sch"
+			(at 17.78 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADPATIVE BOARD"
+				(path "/43113223-387b-4aef-9867-7ed03dd430d3"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

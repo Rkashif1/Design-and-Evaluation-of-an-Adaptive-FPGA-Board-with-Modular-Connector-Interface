@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC7S25-1FTGB196C
+D XILINX - XC7S25-1FTGB196C - FPGA, SPARTAN-7, 100 I/O, FCBGA-196
+K
+F https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf
+$ENDCMP
+#
+#End Doc Library

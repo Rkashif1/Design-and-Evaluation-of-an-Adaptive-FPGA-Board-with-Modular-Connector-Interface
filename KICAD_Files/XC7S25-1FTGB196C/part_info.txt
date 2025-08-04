@@ -1,0 +1,9 @@
+Manufacturer=AMD
+PartNumber=XC7S25-1FTGB196C
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=196
+Version=2.1
+Released=2019-08-03 08:36:06
+Downloaded=2024-10-17 13:38:11
+3D=Y
