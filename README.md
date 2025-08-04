@@ -16,4 +16,5 @@ Schematics and 3D board Refrence Images
 
 
 
-<img width="1536" height="1024" alt="FPGA Interface Board 3D Overview" src="https://github.com/user-attachments/assets/5a4267c7-ebdf-4da3-9ad4-0ed237e6f6a8" />
+<img width="1535" height="985" alt="FPGA Interface Board 3D Overview" src="https://github.com/user-attachments/assets/657bf22a-b4a5-4d45-83f8-a6fdcbbaf590" />
+*3D rendered view of the adaptive FPGA board featuring dual high-density connectors and a Spartan-7 FPGA*
