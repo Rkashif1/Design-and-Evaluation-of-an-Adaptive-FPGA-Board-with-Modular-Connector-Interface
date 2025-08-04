@@ -6,22 +6,13 @@ This repository contains the complete project files for the development of an ad
 
 KiCad schematic and PCB layout files
 
-Reference datasheets and mechanical dimensioning
-
 LaTeX report and documentation
 
-3D board rendering and connector spacing validation
+Schematics and 3D board Refrence Images
 
 🛠️ Key tools used: KiCad, Xilinx Vivado, Git, LaTeX
 
 📌 Developed as part of an academic project demonstrating real-world modular hardware design and reconfigurable embedded systems.
 
-### 🖼️ FPGA Board Visual Overview
-
-![FPGA Board Overview](<Project_Reference_Images/Others/FPGA%20Interface%20Board%203D%20Overview.png>)
-
-
-
-*Complete visual overview of the FPGA interface board, showing 3D renderings, top and bottom copper layers, and isometric assembly perspective.*
 
 
