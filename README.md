@@ -17,6 +17,10 @@ LaTeX report and documentation
 📌 Developed as part of an academic project demonstrating real-world modular hardware design and reconfigurable embedded systems.
 ### 🖼️ Visual Overview
 
-![FPGA Board Overview](./images/fpga_board_overview.png)
+### 🖼️ FPGA Board Visual Overview
+
+![FPGA Board Overview](<project%20reference%20images/others/FPGA%20Interface%20Board%203D%20Overview.png>)
 
 *Complete visual overview of the FPGA interface board, showing 3D renderings, top and bottom copper layers, and isometric assembly perspective.*
+
+
