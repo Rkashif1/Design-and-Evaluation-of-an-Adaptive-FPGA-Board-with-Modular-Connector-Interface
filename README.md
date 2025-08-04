@@ -18,7 +18,8 @@ LaTeX report and documentation
 
 ### 🖼️ FPGA Board Visual Overview
 
-![FPGA Board Overview](Project_Reference_Images/Others/FPGA Interface Board 3D Overview.png)
+![FPGA Board Overview](<Project_Reference_Images/Others/FPGA%20Interface%20Board%203D%20Overview.png>)
+
 
 
 *Complete visual overview of the FPGA interface board, showing 3D renderings, top and bottom copper layers, and isometric assembly perspective.*
