@@ -15,3 +15,8 @@ LaTeX report and documentation
 🛠️ Key tools used: KiCad, Xilinx Vivado, Git, LaTeX
 
 📌 Developed as part of an academic project demonstrating real-world modular hardware design and reconfigurable embedded systems.
+### 🖼️ Visual Overview
+
+![FPGA Board Overview](./images/fpga_board_overview.png)
+
+*Complete visual overview of the FPGA interface board, showing 3D renderings, top and bottom copper layers, and isometric assembly perspective.*
